@@ -1,0 +1,7 @@
+{
+  "name": "Tong Digital - Elite Marketing Agency",
+  "description": "Tong Digital is a premium marketing agency specializing in AI-driven growth strategies, high-end branding, and digital transformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
